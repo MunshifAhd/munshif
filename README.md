@@ -1,10 +1,5 @@
 <!-- Header -->
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Flutter+%7C+React+%7C+IoT;Cloud+%7C+Firebase+%7C+AI%2FML+Explorer;UI%2FUX+Designer+%7C+Problem+Solver+%7C+Tech+Lover" alt="Typing animation" />
-</p>
-
 ---
 
 ### 🚀 About Me
