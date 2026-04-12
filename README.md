@@ -90,8 +90,10 @@ I am eager to continue learning and growing in this field, and I remain open to 
 
 ---
 
-### 📈 GitHub Status
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MunshifAhd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MunshifAhd&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MunshifAhd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
