@@ -79,7 +79,7 @@ I am eager to continue learning and growing in this field, and I remain open to 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-#### 📱 Mobile & IoT  
+#### 📱 Mobile
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 #### 🧪 Tools & APIs  
