@@ -2,7 +2,7 @@
 
 ---
 
-### 🚀👋 About Me
+### 🚀 About Me
 
 Hi, I’m Munshif Ahamed, a passionate web developer with hands-on experience across a variety of projects. I have developed my skills through building solutions ranging from educational websites to library management systems, allowing me to explore multiple facets of modern web technologies.
 
