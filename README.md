@@ -98,16 +98,16 @@ I am eager to continue learning and growing in this field, and I remain open to 
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:nameisrashad@gmail.com">
+  <a href="mailto:munshifahamed019@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/rashadamd">
+  <a href="https://www.linkedin.com/in/munshif-ahamed">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/Rashadamd">
+  <a href="https://twitter.com/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://github.com/rashadamd">
+  <a href="https://github.com/munshif ahd">
     <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
