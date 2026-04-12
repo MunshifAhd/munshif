@@ -31,7 +31,7 @@ I am eager to continue learning and growing in this field, and I remain open to 
 
 ### 🛠️ Tech Stack
 
-#### 👨‍💻 Languages  
+#### 👨‍💻</> Languages  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -40,11 +40,11 @@ I am eager to continue learning and growing in this field, and I remain open to 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-#### 🧱 Hosting
+#### 🌐 Hosting
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-#### 🧱 Frameworks, Platforms & Libraries 
+#### ⚛ ｡🇯‌🇸‌ Frameworks, Platforms & Libraries 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -82,7 +82,7 @@ I am eager to continue learning and growing in this field, and I remain open to 
 #### 📱 Mobile
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
-#### 🧪 Tools & APIs  
+#### 💻⚙️ Tools & APIs  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -99,7 +99,7 @@ I am eager to continue learning and growing in this field, and I remain open to 
 ![Data Mining](https://img.shields.io/badge/Data%20Mining-00876C?style=for-the-badge&logo=data-mining&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-0275D8?style=for-the-badge&logo=agile&logoColor=white)
 
-#### 🧠 AI / ML  
+#### 🧠 ֎🇦🇮 AI / ML  
 ![Teachable Machine](https://img.shields.io/badge/Google%20Teachable%20Machine-4285F4?style=for-the-badge&logo=google&logoColor=white) ![TFLite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
