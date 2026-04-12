@@ -92,13 +92,6 @@ I am eager to continue learning and growing in this field, and I remain open to 
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashadamd&theme=tokyonight" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=rashadamd&show_icons=true&theme=tokyonight" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashadamd&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
