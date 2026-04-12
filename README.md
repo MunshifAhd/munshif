@@ -1,5 +1,5 @@
 <!-- Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:3B82F6&height=220&section=header&text=Hi%20I'm%20Rashad%20Ahamed!%20👋&fontSize=40&fontAlign=50&fontAlignY=40&desc=Crafting%20Digital%20Solutions%20with%20Code%20%7C%20Design%20%7C%20Cloud&descAlign=50&descAlignY=60)
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Flutter+%7C+React+%7C+IoT;Cloud+%7C+Firebase+%7C+AI%2FML+Explorer;UI%2FUX+Designer+%7C+Problem+Solver+%7C+Tech+Lover" alt="Typing animation" />
