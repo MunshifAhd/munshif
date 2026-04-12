@@ -29,7 +29,7 @@ Hi, I'm **Munshif Ahahmed**, a passionate **Software Developer**, **Tech Enthusi
 |📊 **GPA Calculator Web App**|ReactJS-based GPA Calculator, PDF export, local storage. |
 |☕ **Brew Coffee Website**|Responsive static coffee shop website built using ReactJS, showcasing modern UI design and smooth navigation. |
 
-> 📌 *Explore more in the [Repositories](https://github.com/rashadamd?tab=repositories)*
+> 📌 *Explore more in the [Repositories](https://)*
 
 ---
 
