@@ -11,7 +11,7 @@ I am eager to continue learning and growing in this field, and I remain open to 
 - 🎓 **BEng (Hons) in Software Engineering - LMU**
 - 🎯 **Passionate about Software Development, UI/UX, AI/ML and Cybersecurity**
 - 💡 **Love working with:** Firebase, React, Laravel, Cloud, ML
-- 🌱 **Currently exploring:** Blockchain, AI/ML, Cloud Technologies, DevOps & API Security
+- 🔗 **Currently exploring:** Blockchain, AI/ML, Cloud Technologies, DevOps & API Security
 - 🤝 **Open to:** Hackathons, Research Projects, Internships & Freelance Collabs
 - ⚡ **Traits:** Quick Learner | Problem Solver | Team Player | Creative Thinker
 
@@ -29,9 +29,9 @@ I am eager to continue learning and growing in this field, and I remain open to 
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠 Tech Stack
 
-#### 👨‍💻</> Languages  
+#### 💻</> Languages  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -95,11 +95,11 @@ I am eager to continue learning and growing in this field, and I remain open to 
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) 
 
-#### 📊 Methods & Process  
+#### 📈 Methods & Process  
 ![Data Mining](https://img.shields.io/badge/Data%20Mining-00876C?style=for-the-badge&logo=data-mining&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-0275D8?style=for-the-badge&logo=agile&logoColor=white)
 
-#### 🧠 ֎🇦🇮 AI / ML  
+#### 🧠 AI / ML  
 ![Teachable Machine](https://img.shields.io/badge/Google%20Teachable%20Machine-4285F4?style=for-the-badge&logo=google&logoColor=white) ![TFLite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
@@ -111,7 +111,7 @@ I am eager to continue learning and growing in this field, and I remain open to 
 
 ---
 
-### 📫 Connect with Me
+### 📩 Connect with Me
 
 <p align="center">
   <a href="mailto:munshifahamed019@gmail.com">
