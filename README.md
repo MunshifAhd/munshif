@@ -101,7 +101,7 @@ I am eager to continue learning and growing in this field, and I remain open to 
   <a href="mailto:munshifahamed019@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/munshif-ahamed">
+  <a href="https://www.linkedin.com/in/munshif-ahamed-aa3874224">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/">
