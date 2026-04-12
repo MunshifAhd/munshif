@@ -25,7 +25,7 @@ I am eager to continue learning and growing in this field, and I remain open to 
 |--------|-------------|
 
 
-> 📌 *Explore more in the [Repositories]()*
+> 📌 *Explore more in the [Repositories](https://github.com/MunshifAhd?tab=repositories)*
 
 ---
 
