@@ -4,16 +4,16 @@
 
 ### 🚀 About Me
 
-Hi, I’m Munshif Ahamed, a passionate web developer with hands-on experience across a variety of projects. I have developed my skills through building solutions ranging from educational websites to library management systems, allowing me to explore multiple facets of modern web technologies.
+Hi, I’m Munshif Ahamed, a passionate web developer with hands-on experience across a variety of projects. I have strengthened my skills by developing a range of solutions, allowing me to explore multiple facets of modern web technologies.
 
-I am eager to continue learning and growing in this field, and I remain open to new opportunities, projects, and collaborations where I can contribute and further expand my expertise.
+I'm eager to continue learning and growing in this field, and I remain open to new opportunities, projects, and collaborations where I can contribute and further expand my expertise.
 
-- 🎓 **BEng (Hons) in Software Engineering - LMU**
-- 🎯 **Passionate about Software Development, UI/UX, AI/ML and Cybersecurity**
-- 💡 **Love working with:** Firebase, React, Laravel, Cloud, ML
-- 🔗 **Currently exploring:** Blockchain, AI/ML, Cloud Technologies, DevOps & API Security
-- 🤝 **Open to:** Hackathons, Research Projects, Internships & Freelance Collabs
-- ⚡ **Traits:** Quick Learner | Problem Solver | Team Player | Creative Thinker
+- 🎓 **BEng (Hons) in Software Engineering - London Metropoliton University**
+- 🎯 **Passionate about Cloud, AI/ML and Cybersecurity**
+- 💡 **Focused on working with:** Software Development, Firebase, React, Laravel, 
+- 🔗 **Currently exploring:** AI/ML, Cloud Technologies, DevOps & API Security
+- 🤝 **Open to:** Research Projects and Freelance Collaborations
+- ⚡ **Strengths:** Quick Learner | Problem Solver | Team Player | Creative Thinker
 
 🔍 I believe in **building meaningful products** through a combination of **creative design thinking, deep tech, and rapid prototyping**. Whether it's mobile, web, or embedded systems, I aim to blend usability with innovation.
 
