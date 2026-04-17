@@ -10,9 +10,9 @@ I'm eager to continue learning and growing in this field, and I remain open to n
 
 - 🎓 **BEng (Hons) in Software Engineering - London Metropoliton University**
 - 🎯 **Passionate about Cloud, AI/ML and Cybersecurity**
-- 💡 **Focused on working with:** Software Development, Firebase, React, Laravel, 
+- 💡 **Focused on working with:** Software Development, React, Laravel, Databases, GitLab, Bitbucket, GitHub and REST APIs 
 - 🔗 **Currently exploring:** AI/ML, Cloud Technologies, DevOps & API Security
-- 🤝 **Open to:** Research Projects and Freelance Collaborations
+- 🤝 **Open to:** Research Projects, Freelance, Open Source Contributions, Startup Projects and Part-time Roles
 - ⚡ **Strengths:** Quick Learner | Problem Solver | Team Player | Creative Thinker
 
 🔍 I believe in **building meaningful products** through a combination of **creative design thinking, deep tech, and rapid prototyping**. Whether it's mobile, web, or embedded systems, I aim to blend usability with innovation.
